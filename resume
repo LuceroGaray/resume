@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume - Ana Lucero Garay Aguilar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      color: #333333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      color: #333333;
+      text-align: center;
+      margin-top: 0;
+    }
+
+    h2 {
+      color: #333333;
+    }
+
+    p {
+      margin-top: 0;
+    }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    .section-heading {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ANA LUCERO GARAY AGUILAR</h1>
+    <p>Lima, Peru | <a href="https://www.linkedin.com/in/ana-lucero-garay-aguilar">in/ana-lucero-garay-aguilar</a> | +51 942489931 | lucerogaray2494@gmail.com</p>
+
+    <div class="section">
+      <h2 class="section-heading">Summary</h2>
+      <p>I am a dedicated and versatile professional with a diverse background in the medical, financial, crypto, IT, and pop culture industries. With a proven ability to adapt to new challenges and thrive in fast-paced environments, I bring a problem-solving mindset and exceptional communication skills.</p>
+    </div>
+
+    <div class="section">
+      <h2 class="section-heading">Education</h2>
+      <p><strong>University Canada West</strong> - Vancouver, Canada<br>
+        Master of Business Administration (MBA) Candidate<br>
+        Expected graduation date: 2025</p>
+      <p><strong>Ricardo Palma University</strong> - Lima, Peru<br>
+        Bachelor in Translation and Interpretation<br>
+        Graduation Date: 2018</p>
+      <p><strong>Cambridge Michigan Language Assessments</strong> - Lima, Peru<br>
+        Examination for the Certificate of Proficiency in English (ECPE) - 2019</p>
+    </div>
+
+    <div class="section">
+      <h2 class="section-heading">Work Experience</h2>
+      <h3>QoriBridge Translations (Own translation company) - Remote</h3>
+      <p><strong>Localization Manager</strong> - 2016 – Present</p>
+      <ul>
+        <li>Managed end-to-end localization projects, establishing timelines, allocating resources, and ensuring high-quality localized products.</li>
+        <li>Oversaw the localization process for various content types, maintaining linguistic and functional integrity while adhering to localization best practices.</li>
+        <li>Established and maintained relationships with language service providers, managing vendor selection and negotiation.</li>
+        <li>Implemented localization tools and technologies to optimize processes, such as Xbench, file format conversion tools, Trello, MemoQ, and Trados.</li>
+      </ul>
+
+      <p><strong>Spanish translator/editor/proofreader</strong> - 2016 – Present</p>
+      <ul>
+        <li>Specialized in English to Spanish translations with expertise in localizing content for the LatAm market.</li>
+        <li>Executed tasks such as proofreading, transcreation, and creating Spanish style guides with a focus on accuracy and attention to detail.</li>
+        <li>Collaborated with marketing teams and offshore colleagues, excelling in remote environments for over 6 years.</li>
+      </ul>
+      <!-- Add more work experience if needed -->
+    </div>
+
+    <div class="section">
+      <h2 class="section-heading">Skills & Interests</h2>
+      <h3>Skills:</h3>
+      <ul>
+        <li>Strong teamwork and collaboration skills</li>
+        <li>Adaptable and dynamic approach to work</li>
+        <li>Responsible and committed to meeting deadlines and exceeding expectations</li>
+        <li>Excellent multitasking skills, capable of managing multiple projects simultaneously</li>
+        <li>Proficient in localization and proofreading, and SEO optimization techniques</li>
+        <li>Fast learner with a keen eye for detail and a solid understanding of marketing and SEO principles</li>
+        <li>Experienced in Trados, Xbench, Trello, Caption Hub, and Subtitle Edit</li>
+      </ul>
+
+      <h3>Interests:</h3>
+      <ul>
+        <li>Passionate about film and television, with a deep interest in popular culture</li>
+        <li>Avid user of streaming services such as Netflix, Prime, HBO+, and Disney+</li>
+        <li>Enthusiastic gamer with a love for all types of games</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
